@@ -159,3 +159,8 @@ cursor: pointer;
 .our-work .image-box:hover::before {
   bottom: 5px;
 }
+
+/* About Us */
+.about-us .container > p {
+  max-width: 500px;
+}
