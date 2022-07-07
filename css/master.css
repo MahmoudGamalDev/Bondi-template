@@ -174,3 +174,7 @@ cursor: pointer;
 .team h4 {
   background-color: var(--green-color);
 }
+/* Project */
+.project {
+  background-color: var(--dark-color);
+}
