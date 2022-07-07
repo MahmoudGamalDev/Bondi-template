@@ -203,3 +203,29 @@ cursor: pointer;
   background-color: var(--dark-color);
   color: var(--yellow-color);
 }
+
+/* Footer */
+.footer {
+  background-color: var(--dark-color);
+}
+
+.copy-right span {
+  color: var(--yellow-color);
+}
+
+.copy-right > span {
+  color: var(--green-color);
+}
+
+.social .facebook {
+  background-color: #1877f2;
+}
+.social .twitter {
+  background-color: #1da1f2;
+}
+.social .linkedin {
+  background-color: #0077b5;
+}
+.social .youtube {
+  background-color: #ff0000;
+}
