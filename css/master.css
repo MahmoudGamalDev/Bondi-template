@@ -178,3 +178,28 @@ cursor: pointer;
 .project {
   background-color: var(--dark-color);
 }
+
+/* Subscribe */
+.subscribe {
+  background-color: var(--yellow-color);
+}
+.email {
+  outline: none;
+  border: none;
+  border-bottom: 1px solid white;
+  caret-color: white;
+}
+
+.email::placeholder {
+  color: white;
+  font-weight: bold;
+}
+
+.submit {
+  background-color: var(--dark-color);
+  color: var(--yellow-color);
+}
+.submit:hover {
+  background-color: var(--dark-color);
+  color: var(--yellow-color);
+}
