@@ -82,7 +82,7 @@ nav {
   height: 200px;
 }
 
-.feat .icon-holder i {
+.feat .icon-holder svg {
   left: 50%;
   transform: translate(-50%);
   -webkit-transform: translate(-50%);
@@ -91,12 +91,12 @@ nav {
   -o-transform: translate(-50%);
 }
 
-.feat .icon-holder i:first-child {
+.feat .icon-holder svg:first-child {
   font-size: 12rem;
   color: var(--section-color);
 }
 
-.feat .icon-holder i:last-child {
+.feat .icon-holder svg:last-child {
   color: var(--green-color);
 }
 
